@@ -1,0 +1,11 @@
+# Python sanal ortamı
+.venv/
+
+# Python geçici dosyaları
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# Büyük veri dosyaları
+data/*.txt
+data/*.csv
